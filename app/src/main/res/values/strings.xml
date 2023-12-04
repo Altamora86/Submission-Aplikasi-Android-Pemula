@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Makanan Khas Solo</string>
+
+    <string name="Food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="About">List</string>
+    <string name="name">Al Kautsar Russetya Tamora</string>
+    <string name="email">kakatamora0806@gmail.com</string>
+    <string name="instagram">Instagram</string>
+    <string name="nama_instagram">Kaka_tmr</string>
+    <string name="data_description">data_description</string>
+    <string name="data_name">data_name</string>
+    <string name="about">About</string>
+    <string name="foto_profil">Foto Profil</string>
+    <string name="foto_item">foto item</string>
+    <string name="tunggu_sebentar">tunggu sebentar</string>
+    <string name="data_description_pembuatan">data_description_pembuatan</string>
+    <string-array name="data_name">
+        <item>Brambang Asem</item>
+        <item>Cabuk Rambak</item>
+        <item>Sosis Solo</item>
+        <item>Jadah Blondo</item>
+        <item>Dawet Solo</item>
+        <item>Pecel Ndeso</item>
+        <item>Putu Bumbung</item>
+        <item>Selat Solo</item>
+        <item>Tahok</item>
+        <item>Serabi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Brambang asem inggih punika sawijining olah-olahan ingkang kadamel saking jejanganan lajeng dipunsuntak sambel. Dipunsukani nama brambang asem amargi sambel kagem olahan menika kadamel saking brambang saha asem jawa, lombok lan sanesipun. Satemah ndadosaken rasa gurih, radi kecut, pedhes saha seger. Jejanganan padatanipun inggih menika bayem, kangkung, kembang turi, lan sakpanunggalanipun. Panganan menika asring dipundhahar kalian bakwan, tahu bacem, tempe bacem, utama mendhoan. Sakengga dados menu dhaharan vegan. Ajang rambang asem padhatanipun ron gedhang.</item>
+        <item>Cabuk rambak adalah makanan khas dari kota Surakarta atau Solo, Jawa Tengah. Makanan ini berfungsi sebagai makanan sela (volumenya tidak seberapa besar dan satu porsi tidak membuat kenyang) yang dibuat dari ketupat nasi yang diiris tipis-tipis, lalu disiram dengan saus wijen yang dicampur kemiri dan kelapa parut yang terlebih dulu disangrai, serta ditambah beberapa potong karak (sejenis kerupuk yang terbuat dari nasi kering dan bleng). Oleh penjaja di pinggir jalan biasanya disajikan tidak dengan piring tetapi dengan wadah dari daun pisang yang dilipat dengan cara tertentu (disebut pincuk).</item>
+        <item>Sosis Solo adalah makanan khas dari Kota Solo provinsi Jawa Tengah yang terbuat dari daging sapi atau ayam digiling kemudian dibungkus dengan dadar telur. Makanan ini diadopsi dari sosis pada zaman penjajahan Belanda yang kemudian diubah dan disesuaikan dengan bumbu dan gaya lokal masyarakat Kota Solo sehingga menjadi makanan khas daerah. Konon kabarnya Kanjeng Sunan Pakubowono X sendiri yang menggubah dan meracik pertama kali namun sumber yang lain mengatakan bahwa Sosis Solo dibuat karena masyarakat ingin mencoba makanan kesukaan para meneer dan noni Belanda. Meskipun hasil adopsi dari makanan luar namun rasa maupun penampilan Sosis Solo sangat khas dan berbeda dengan sosis di daerah lainnya.</item>
+        <item>Jadah utawa tetel iku panganan tradhisional Jawa Tengah. Jadah panganan kang digawé saka beras ketan. Panganan iki racaké digunakaké kanggo nyamikan nalika ana khajat pangantènan, sunat utawa khitanan, Sedekah Bumi. Paling énak jadah dipangan bareng karo tèh utawa kopi anget ing wayah ésuk utawa soré sinambi maca koran. Nanging jadah iku paling cocog dipangan karo témpé bacem kang wis digorèng. Ing adicara mantu, jadah didadèkaké salah sijining panganan kang digawa utawa panganan sing wigati, amarga jadah iku nduwèni pralambang yèn kulawarga lan calon pangantèn bisa rumaket dadi siji, kaya déné ketan kang dhéwé-dhéwé banjur dadi jadah.</item>
+        <item>Minuman dengan rasa manis dan gurih ini juga kerap disajikan sebagai menu upacara pernikahan adat suku Jawa. Seiring perkembangan zaman, Es dawet menyebar ke seluruh kota mulai dari Kota Semarang, Solo, Banjarnegara, Banyumas, Cilacap, Purworejo Jakarta, Bandung. Ketika Kesultanan Demak melakukan penyerangan Portugis di Melaka, Pasukan Demak disediakan minuman Dawet Hijau supaya memiliki semangat perang yang tinggi, sehingga Dawet pun dikenal juga oleh orang melayu yang tinggal di Malaysia, Singapura, Riau dan Thailand Selatan.</item>
+        <item>Pecel ndeso adalah makanan tradisional khas Solo. Perbedaannya dari pecel lainnya terletak pada nasi dan sambal yang digunakan. Pecel merupakan makanan yang terdiri dari sayur yang direbus dan lauk yang dihidangkan dengan alas yang berbeda-beda sesuai kota asal pecel. Alas makan tersebut diantaranya piring lidi yang disebut ingke, pincuk, atau tampah bambu. Sayuran yang dihidangkan antara lain kacang panjang, taoge, mentimun, daun singkong, dan daun kemangi. Walau begitu, variasi sayuran yang digunakan juga beragam berdasarkan daerah dan keanekaragaman sayuran yang tersedia pada musim dan wilayah tersebut.</item>
+        <item>Kue putu merupakan jajanan tradisional Indonesia. Kue ini dikenal di berbagai wilayah, termasuk di Solo. Bahan dasar kue putu adalah tepung beras yang berbentuk butiran kasar dan gula merah. Kue putu ini umumnya dihidangkan dalam warna putih dan hijau. Sedangkan dalam varian Putu Bugis (berasal dari Sulawesi Selatan), biasanya kue dibuat menggunakan bahan seperti beras ketan hitam tanpa gula sehingga menghasilkan warna kue putu yang gelap cenderung hitam. Putu Bugis biasanya dimakan dengan taburan parutan kelapa dan sambal, serta hanya dijual pagi hari sebagai pengganti sarapan yang praktis.</item>
+        <item>Selat Solo merupakan steak ala Eropa yang dimodifikasi sesuai lidah raja-raja Kasunanan Solo. Saus berwarna cokelat mendominasi hidangan berbahan dasar daging ini. Warna cokelat berasal dari pemakaian kecap. Cita rasanya manis, asam dan gurih. Makanan ini terdiri dari daging sapi has luar yang direbus dalam kuah encer yang terbuat dari bawang putih, cuka, kecap manis, kecap Inggris, air serta dibumbui dengan pala dan merica.</item>
+        <item>Tahok berasal dari kata dalam bahasa Tionghoa, yaitu tahoa. Tahoa berasal dari dua kata, yaitu tao atau teu dan hoa atau hu. Tao atau teu artinya kacang kedelai, sedangkan hoa atau hu berarti lumat. Jadi, tahoa adalah kacang kedelai yang dilumatkan atau dihaluskan. Tahok merupakan makanan yang terbuat dari sari kedelai berbentuk seperti agar-agar yang diberi kuah jahe. Tahok terkenal dengan sebutan "riak cina". Pedagang Tahok saat ini jarang ditemui, tahok ini masih ada di daerah di Solo dan Surabaya</item>
+        <item>Srabi Sala adalah sebuah makanan ringan yang berasal dari Solo, Jawa Tengah. Makanan ini terbuat dari tepung beras yang dicampur dengan santan dan digoreng di atas arang mirip pancake ( roti loyang ) atau pancake. Srabi adalah jajanan khas dari Solo yang terbuat dari santan kelapa dicampur dengan sedikit tepung, yang menjadikannya bercitarasa gurih. Biasa juga diberi taburan berupa potongan pisang, nangka atau bahkan meses dan keju bila suka. Srabi yang terkenal berasal dari daerah Notokusuman, yang sering disingkat menjadi Notosuman (Srabi Notosuman)</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/44/Brambang_asem_daun_bayam.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cabuk_rambak.jpg/330px-Cabuk_rambak.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sosis_Solo.jpg/1024px-Sosis_Solo.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ulibakar.JPG/1024px-Ulibakar.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/EsDawet_Paling_Enak_se-Dunia_%28World_Best_Ice_Dawet%29_-_panoramio.jpg/1024px-EsDawet_Paling_Enak_se-Dunia_%28World_Best_Ice_Dawet%29_-_panoramio.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pecel_Hariadhi.JPG/1024px-Pecel_Hariadhi.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/22._Ku%C3%A9_putu_1.jpg/375px-22._Ku%C3%A9_putu_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/40._Selat_1.jpg/1024px-40._Selat_1.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Taho2.jpg/330px-Taho2.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Srabi_Solo.jpg/330px-Srabi_Solo.jpg</item>
+    </string-array>
+    <string-array name="data_description_pembuatan">
+        <item>Untuk membuat brambang asem, pertama, rebus potongan kangkung dan tauge hingga matang. Kedua, tumis bumbu halus dengan daun kemangi dan terong. Terakhir, campurkan bumbu tumis dengan kangkung, tauge, dan tambahkan air asam.</item>
+        <item>Goreng wijen putih dengan sedikit minyak hingga baunya harum dan warnanya kekuningan, haluskan. Uleni wijen halus dengan bumbu halus dan irisan daun jeruk purut. Encerkan bumbu cabuk rambak secukupnya dengan air matang. Penyajian cabuk rambak, potong-potong ketupat, siram bumbu, dan beri kerupuk karak. </item>
+        <item>Untuk membuat sosis solo, pertama, campurkan daging sapi cincang dengan bumbu seperti bawang putih, ketumbar, dan garam. Kedua, bungkus campuran tersebut dengan kulit lumpia atau kulit pangsit. Terakhir, goreng hingga matang dan siap disajikan.</item>
+        <item>Untuk membuat jadah, pertama, rendam beras ketan semalam dalam air. Kedua, kukus ketan hingga matang, lalu bentuk bulat dan giling dalam kelapa parut. Terakhir, sajikan jadah dengan gula merah yang dicairkan sebagai pemanis.</item>
+        <item>Untuk membuat es dawet, pertama, campurkan tepung beras, tepung hunkwe, dan garam dengan air, lalu rebus hingga mengental. Kedua, iris adonan menjadi dawet, lalu tata di dalam mangkuk dengan es serut. Terakhir, siram dengan santan gula merah sebagai kuahnya.</item>
+        <item>Untuk membuat pecel, pertama, rebus sayuran seperti kacang panjang, kangkung, dan tauge hingga matang. Kedua, haluskan bumbu kacang dengan campuran kacang tanah, gula merah, garam, terasi, bawang putih, dan air, lalu tuangkan di atas sayuran. Terakhir, taburi dengan kerupuk dan bawang goreng sebagai hiasan.</item>
+        <item>Untuk membuat kue putu, pertama, campurkan tepung beras, gula merah yang dihaluskan, dan sedikit air hingga menjadi adonan yang bisa dibentuk. Kedua, isi cetakan putu dengan adonan dan kukus selama sekitar 15-20 menit hingga matang. Terakhir, sajikan kue putu dengan taburan kelapa parut dan gula merah yang serut sebagai hiasan.</item>
+        <item>Untuk membuat selat Solo, pertama, goreng daging ayam atau sapi hingga matang. Kedua, sajikan dengan saus tomat, telur ceplok, kentang goreng, dan buncis rebus. Terakhir, hidangkan sebagai hidangan utama yang lezat.</item>
+        <item>Untuk membuat tahu tahok, pertama, campurkan tahu putih yang sudah dihaluskan dengan air kapur sirih dan air, lalu didihkan hingga mengental. Kedua, tuangkan adonan tahu ke dalam cetakan dan biarkan mengeras. Terakhir, sajikan tahu tahok dengan siraman kuah gula merah sebagai hidangan penutup.</item>
+        <item>Untuk membuat srabi Solo, pertama, campurkan tepung beras, gula merah yang dihaluskan, dan santan hingga menjadi adonan yang cukup encer. Kedua, tuangkan adonan ke dalam cetakan khusus srabi dan kukus hingga matang. Terakhir, sajikan srabi dengan taburan kelapa parut dan gula merah serut sebagai hiasan.</item></string-array>
+
+</resources>
